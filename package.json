@@ -1,6 +1,7 @@
-{  
+{
   "name": "backbone.marionette kit",
-  "version": "1.0.0",  "description": "",
+  "version": "1.0.0",
+  "description": "",
   "keywords": [],
   "homepage": "https://codesandbox.io/s/rm423j480o",
   "main": "index.js",
